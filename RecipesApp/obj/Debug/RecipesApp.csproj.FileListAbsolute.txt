@@ -1,0 +1,10 @@
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\RecipesApp.exe.config
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\RecipesApp.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\RecipesApp.pdb
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\EntityFramework.dll
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\EntityFramework.xml
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\obj\Debug\RecipesApp.csprojResolveAssemblyReference.cache
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\obj\Debug\RecipesApp.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\RecipesApp\RecipesApp\obj\Debug\RecipesApp.pdb
